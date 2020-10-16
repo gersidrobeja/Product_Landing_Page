@@ -65,7 +65,6 @@ ul li a:hover{
 }
 .flex{
     display:flex;
-    flex-wrap: wrap;
 }
 
 @media (max-width: 768px){
@@ -92,4 +91,12 @@ ul li a:hover{
 .price{
     width:25%;
     border:2px solid black;
+}
+
+.price{
+    width:33.33%;
+    margin:10px;
+    padding:20px;
+    border:2px solid black;
+    box-shadow: 4px 14px 6px dodgerblue;
 }
